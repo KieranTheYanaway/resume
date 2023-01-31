@@ -1,7 +1,7 @@
 # Kieran Yanaway
 **School Email:** kyanaway@mines.edu\
 **Personal Email:** kpyanaway01@gmail.com\
-**Address:** Golden, CO\
+**Address:** Golden, CO
 
 <img src="https://chemistry.mines.edu/wp-content/uploads/sites/24/2017/06/Mines_triangle_2CC_R-294x300.png" width="200">
 
