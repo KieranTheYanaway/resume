@@ -3,7 +3,7 @@
 **Personal Email:** kpyanaway01@gmail.com
 **Address:** Golden, CO
 
-![Alt text](https://toppng.com/uploads/preview/colorado-school-of-mines-logo-11563033970omcwoyn5nx.png "CSM Logo")
+![Alt text](https://chemistry.mines.edu/wp-content/uploads/sites/24/2017/06/Mines_triangle_2CC_R-294x300.png "CSM Logo){width=200}
 
 ## Education
 - **Colorado School of Mines**, 2021--Present
