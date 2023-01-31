@@ -1,9 +1,9 @@
 # Kieran Yanaway
-**School Email:** kyanaway@mines.edu
-**Personal Email:** kpyanaway01@gmail.com
-**Address:** Golden, CO
+**School Email:** kyanaway@mines.edu\
+**Personal Email:** kpyanaway01@gmail.com\
+**Address:** Golden, CO\
 
-![Alt text](https://chemistry.mines.edu/wp-content/uploads/sites/24/2017/06/Mines_triangle_2CC_R-294x300.png "CSM Logo"){width=200}
+<img src="https://chemistry.mines.edu/wp-content/uploads/sites/24/2017/06/Mines_triangle_2CC_R-294x300.png" width="200">
 
 ## Education
 - **Colorado School of Mines**, 2021--Present
